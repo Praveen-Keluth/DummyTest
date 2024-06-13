@@ -1,3 +1,4 @@
 first line
 second line
 third line added from git
+This is used for practice purpose only
